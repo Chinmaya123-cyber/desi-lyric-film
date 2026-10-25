@@ -1,0 +1,71 @@
+{
+ "sets": {
+  "main": {
+   "file": "main",
+   "w": 1055,
+   "h": 1400,
+   "ex": 0.4605,
+   "ey": 0.2705,
+   "faces": {
+    "neutral": "",
+    "front": "",
+    "glance": "_glance",
+    "half": "_half",
+    "closed": "_closed",
+    "pain": "_pain",
+    "relief": "_relief",
+    "shy": "_shy",
+    "dream": "_dream",
+    "moved": "_moved"
+   }
+  }
+ },
+ "closeup": {
+  "l": [
+   461,
+   699
+  ],
+  "r": [
+   1481,
+   673
+  ],
+  "frames": [
+   "open",
+   "half",
+   "closed",
+   "tears",
+   "glance"
+  ]
+ },
+ "twirl": {
+  "file": "twirl",
+  "w": 1105,
+  "h": 1400
+ },
+ "cards": [
+  {
+   "name": "teal",
+   "bg": "#2A6C79",
+   "w": 872,
+   "h": 1300
+  },
+  {
+   "name": "navy",
+   "bg": "#1E2D49",
+   "w": 872,
+   "h": 1300
+  },
+  {
+   "name": "orange",
+   "bg": "#F39C59",
+   "w": 872,
+   "h": 1300
+  },
+  {
+   "name": "yellow",
+   "bg": "#DBB056",
+   "w": 872,
+   "h": 1300
+  }
+ ]
+}

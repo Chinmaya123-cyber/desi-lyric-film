@@ -1,0 +1,14 @@
+{
+  "name": "desi-lyric-film",
+  "owner": {"name": "Chinmaya", "url": "https://github.com/Chinmaya123-cyber"},
+  "metadata": {"description": "Hand-drawn desi lyric music video skill for Claude", "version": "1.0.0"},
+  "plugins": [
+    {
+      "name": "desi-lyric-film",
+      "source": "./",
+      "description": "Hand-drawn Indian-maximalist lyric music videos for any song — automatic lyrics, a consistent character via the Atlabs MCP, stop-motion animation.",
+      "version": "1.0.0",
+      "category": "creative"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+ "title": "Demo — Ye Aankhen",
+ "bpm": 96.0,
+ "beatOffset": 0.0,
+ "duration": 34.5,
+ "audio": null,
+ "stage": {
+  "outer": "#00756C",
+  "buti": "#FF7FAB",
+  "field": "#F7B500"
+ },
+ "shots": [
+  {
+   "t": 0.0,
+   "slot": 0,
+   "kind": "open",
+   "set": "main",
+   "doors": [
+    0.3,
+    1.7
+   ],
+   "bg": "pink",
+   "transition": "cut"
+  },
+  {
+   "t": 3.58,
+   "slot": 1,
+   "kind": "prop",
+   "prop": "path",
+   "bg": "marigold",
+   "transition": "slide"
+  },
+  {
+   "t": 5.18,
+   "slot": 2,
+   "kind": "eyes",
+   "gaze": "open",
+   "transition": "blink",
+   "refrain": true
+  },
+  {
+   "t": 6.78,
+   "slot": 3,
+   "kind": "prop",
+   "prop": "heartsMeet",
+   "bg": "teal",
+   "transition": "tear"
+  },
+  {
+   "t": 8.38,
+   "slot": 4,
+   "kind": "prop",
+   "prop": "sunEye",
+   "transition": "zoom",
+   "refrain": true,
+   "bg": "orange"
+  },
+  {
+   "t": 9.98,
+   "slot": 5,
+   "kind": "cards",
+   "transition": "iris"
+  },
+  {
+   "t": 11.58,
+   "slot": 6,
+   "kind": "eyes",
+   "gaze": "glance",
+   "transition": "blink",
+   "refrain": true
+  },
+  {
+   "t": 13.18,
+   "slot": 7,
+   "kind": "prop",
+   "prop": "mandala",
+   "bg": "teal",
+   "transition": "iris"
+  },
+  {
+   "t": 14.78,
+   "slot": 8,
+   "kind": "character",
+   "mood": "pain",
+   "set": "main",
+   "bg": "navy",
+   "transition": "tear",
+   "reliefWord": 2
+  },
+  {
+   "t": 16.38,
+   "slot": 9,
+   "kind": "prop",
+   "prop": "peacockEye",
+   "transition": "zoom",
+   "refrain": true,
+   "bg": "orange"
+  },
+  {
+   "t": 17.98,
+   "slot": 10,
+   "kind": "prop",
+   "prop": "lotusDew",
+   "bg": "teal",
+   "transition": "iris"
+  },
+  {
+   "t": 19.58,
+   "slot": 11,
+   "kind": "eyes",
+   "gaze": "open",
+   "transition": "blink",
+   "refrain": true
+  },
+  {
+   "t": 21.18,
+   "slot": 12,
+   "kind": "character",
+   "mood": "dream",
+   "set": "main",
+   "bg": "navy",
+   "transition": "slide"
+  },
+  {
+   "t": 22.78,
+   "slot": 13,
+   "kind": "prop",
+   "prop": "lotusEye",
+   "transition": "zoom",
+   "refrain": true,
+   "bg": "orange"
+  },
+  {
+   "t": 24.38,
+   "slot": 14,
+   "kind": "character",
+   "mood": "moved",
+   "set": "main",
+   "bg": "pink",
+   "transition": "iris"
+  },
+  {
+   "t": 25.98,
+   "slot": 15,
+   "kind": "eyes",
+   "gaze": "glance",
+   "transition": "blink",
+   "refrain": true
+  },
+  {
+   "t": 27.58,
+   "slot": 16,
+   "kind": "prop",
+   "prop": "shyStars",
+   "bg": "navy",
+   "transition": "iris"
+  },
+  {
+   "t": 29.18,
+   "kind": "notes",
+   "transition": "spin",
+   "bg": "marigold",
+   "notes": [
+    {
+     "t": 29.2,
+     "dev": "सा",
+     "rom": "sa"
+    },
+    {
+     "t": 29.6,
+     "dev": "रे",
+     "rom": "re",
+     "card": "teal"
+    },
+    {
+     "t": 29.8,
+     "dev": "गा",
+     "rom": "ga",
+     "card": "navy"
+    },
+    {
+     "t": 30.0,
+     "dev": "मा",
+     "rom": "ma",
+     "card": "orange"
+    }
+   ]
+  },
+  {
+   "t": 30.78,
+   "slot": 18,
+   "kind": "end",
+   "set": "main",
+   "bg": "yellow",
+   "transition": "iris",
+   "flips": [
+    {
+     "word": 1,
+     "card": "teal"
+    },
+    {
+     "word": 3,
+     "card": "orange"
+    }
+   ]
+  }
+ ]
+}

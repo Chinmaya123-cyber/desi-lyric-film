@@ -1,0 +1,10 @@
+{
+  "name": "desi-lyric-film",
+  "version": "1.0.0",
+  "description": "Turn any song into a hand-drawn, Indian-maximalist 16:9 lyric music video: automatic word-synced Devanagari + Roman lyrics, a consistent illustrated character (your images or an original) made with the Atlabs MCP, stop-motion expressions, eye moments on every refrain, outfit/colour flips on the beat. Remotion + Atlabs MCP.",
+  "author": {"name": "Chinmaya", "url": "https://github.com/Chinmaya123-cyber"},
+  "homepage": "https://github.com/Chinmaya123-cyber/desi-lyric-film",
+  "repository": "https://github.com/Chinmaya123-cyber/desi-lyric-film",
+  "license": "MIT",
+  "keywords": ["lyric-video", "music-video", "animation", "remotion", "hindi", "devanagari", "bollywood", "desi", "atlabs", "kinetic-typography"]
+}
