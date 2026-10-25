@@ -69,6 +69,8 @@ docs/                   installation, Atlabs MCP, example prompts, how it works
 
 How it works, in one picture: [docs/how-it-works.md](docs/how-it-works.md)
 
+The whole skill in one file (workflow + every reference, including the full style spec): [desi-lyric-film-SKILL.md](desi-lyric-film-SKILL.md)
+
 ## Credits & notes
 
 - Image generation spends Atlabs credits — a full film uses roughly 25–40 with Nano Banana 2.1.
